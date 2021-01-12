@@ -1,4 +1,4 @@
-<img src="cicada.jpeg" alt="cicada 3301" onClick="alert('Sup?')" href="#">
+<img src="cicada.png" alt="cicada 3301" onClick="alert('Sup?')" href="#">
 
 <!--
 ### Hi there 👋
