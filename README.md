@@ -3,6 +3,8 @@
 <!--
 ### Hi there 👋
 
+![Statistics Overview](https://raw.githubusercontent.com/nicolaipre/github-stats/master/generated/overview.svg) ![Languages Overview](https://raw.githubusercontent.com/nicolaipre/github-stats/master/generated/languages.svg)
+
 **nicolaipre/nicolaipre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
